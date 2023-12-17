@@ -31,6 +31,7 @@ y = df[["norm_price"]]
 # split data 70% train, 30% test
 # set.seed(11)
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.3, random_state = 11)
+
 from sklearn.linear_model import LinearRegression
 # train model
 model = LinearRegression()
