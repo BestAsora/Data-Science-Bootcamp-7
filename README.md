@@ -1,2 +1,2 @@
 # myportfolio
-The repository where I collect various works, whether it's homework from different courses or projects I've done on my own.
+All Homework I commit from Data Science Bootcamp 7 by DataRockie.
